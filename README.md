@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @HenriqueMoreira-1
-- 🌱 I’m currently learning HTML/CSS/JS
-- 📫 How to reach me: henriquemoreiradesouza4@gmail.com
+- 🌱 I have experience with HTML,CSS and JavaScript
+- 📫 How to reach me: henriquemoreiradesouza4@gmail.com or https://www.linkedin.com/in/henrique-moreira-310106231/
